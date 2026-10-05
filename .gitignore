@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+image/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated images
+generated images/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
